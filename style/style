@@ -1,0 +1,8 @@
+body {
+    border: 10px solid black;
+  }
+  header {
+    background-color: #5bc0de;
+    padding: 10px; /* Agrega un espacio interno para que no quede pegado al borde */
+    color: white; /* Cambia el color del texto para que contraste */
+  }
